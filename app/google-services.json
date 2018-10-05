@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "493307345246",
+    "firebase_url": "https://titbitnews-ddfd3.firebaseio.com",
+    "project_id": "titbitnews-ddfd3",
+    "storage_bucket": "titbitnews-ddfd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493307345246:android:8a5ab176d2286a70",
+        "android_client_info": {
+          "package_name": "com.example.chandranichatterjee.titbitnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493307345246-pfir2o0qcqtqifll5cc4mp1t23ujt8k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chandranichatterjee.titbitnews",
+            "certificate_hash": "ea7cff23f6693e38f70f36bbbe3bb55702cc2c9f"
+          }
+        },
+        {
+          "client_id": "493307345246-b0jdgf41l9ioi0808rcvc2md4l6o9c0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBth3M6ztDFFY3R8dHQPrQXeq3eV7ONVd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493307345246-b0jdgf41l9ioi0808rcvc2md4l6o9c0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
